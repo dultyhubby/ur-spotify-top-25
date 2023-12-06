@@ -12,7 +12,7 @@ app.secret_key = '53d355f&-571a-4590-a310-1f9579440851'
 
 CLIENT_ID = '6482d51f91994ef49489b00ab84f02d1'
 CLIENT_SECRET = '8c77fa2823e147edb04bcd7446ef7a9e'
-REDIRECT_URI = 'http://localhost:5000/callback'
+REDIRECT_URI = 'https://dultyhubby.github.io/ur-spotify-top-25/'
 
 AUTH_URL = 'https://accounts.spotify.com/authorize'
 TOKEN_URL = 'https://accounts.spotify.com/api/token'
